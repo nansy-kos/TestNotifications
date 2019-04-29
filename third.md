@@ -26,3 +26,5 @@ Gud
 
 
 # ksfnajfgkjhjdsglfsjh
+
+nan
