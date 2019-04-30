@@ -37,6 +37,8 @@ kaboom
 
 boom
 
+льтромпмпь
+
 boom
 
 kaboom
