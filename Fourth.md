@@ -8,6 +8,7 @@ gfdxhkk
 
 bambaleo
 
+долто
 
 Bambaleila
 
