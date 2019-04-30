@@ -32,6 +32,8 @@ addingd another line for the second time.
 
 kaboom
 
+kaboom
+
 boom
 
 kaboom
